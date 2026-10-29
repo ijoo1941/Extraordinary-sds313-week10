@@ -13,6 +13,7 @@ format: html
 ```
 
 - manhattan 
+- Abel Garza
 
 ## Team Visualizations
 
